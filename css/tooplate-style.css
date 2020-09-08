@@ -393,13 +393,18 @@ footer a { color: white; }
 }
 
 .timeline {
-    background: rgba(0, 0, 0, 0.205);
+    background: rgba(54, 54, 54, 0.548);
     padding: 2rem;
     border: 1px solid;
     border-color: blanchedalmond;
     font-weight: bolder;
+    
     text-shadow: 5px 0px 10px rgba(240, 232, 232, 0.836);
 
+}
+
+.timeline p{
+    font-size: 0.9rem;
 }
 
 /* .timeline p {
